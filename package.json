@@ -1,0 +1,19 @@
+{
+  "name": "angularinventory",
+  "version": "1.0.0",
+  "description": "Web based inventory management app created with Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keegan266/AngularInventory.git"
+  },
+  "author": "Keegan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keegan266/AngularInventory/issues"
+  },
+  "homepage": "https://github.com/keegan266/AngularInventory#readme"
+}

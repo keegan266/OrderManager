@@ -1,1 +1,30 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: #eeeeee;
+}
+
+h1 {
+    color: white;
+    font-size: 40px !important;
+}
+
+.logo {
+    max-width: 80px;
+}
+
+.header {
+    position: absolute;
+    left: 40%;
+    top: 25%;
+}
+
+.card-img-top {
+    width: 250px;
+}
+
+.card {
+    max-width: 250px;
+}
+
+.col {
+    max-width: 250px;
+}
