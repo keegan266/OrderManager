@@ -1,3 +1,5 @@
+$tbodyBackground: rgb(110, 161, 255);
+
 table{
   width:100%;
   table-layout: fixed;
@@ -30,12 +32,8 @@ td{
 }
 
 tbody {
-  background-color: rgb(110, 161, 255);
+  background-color: $tbodyBackground;
 }
-
-section{
-}
-  
 /* for custom scrollbar for webkit browser*/
 
 ::-webkit-scrollbar {

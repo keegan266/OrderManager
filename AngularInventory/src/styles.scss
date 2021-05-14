@@ -1,0 +1,20 @@
+$homeBackground: #eeeeee;
+
+body {
+    background-color: $homeBackground;
+}
+
+h1 {
+    color: white;
+    font-size: 40px !important;
+}
+
+.logo {
+    max-width: 80px;
+}
+
+.header {
+    position: absolute;
+    left: 40%;
+    top: 25%;
+}
