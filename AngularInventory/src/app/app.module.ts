@@ -17,9 +17,7 @@ import { RouterModule } from '@angular/router';
     BrowserModule,
     AppRoutingModule,
     RouterModule,
-    RouterModule.forRoot([
-      
-    ])
+    RouterModule.forRoot([], { relativeLinkResolution: 'legacy' })
   ],
   providers: [],
   bootstrap: [AppComponent]
